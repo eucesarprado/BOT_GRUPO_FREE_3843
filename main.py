@@ -27,7 +27,7 @@ client = TelegramClient("session", api_id, api_hash)
 
 # 🛰️ Canais/grupos
 origens = [-1002368866066, -4686930379]
-destino_id = -1002632937431
+destino_id = -1002304536894
 
 # 🧠 Set para evitar duplicação de álbum
 grouped_processados = set()
