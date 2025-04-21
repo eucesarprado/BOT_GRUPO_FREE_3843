@@ -1,1 +1,1 @@
-python main_free.py
+web: python3 main_free.py
