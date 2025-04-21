@@ -1,1 +1,1 @@
-python3 main_free.py
+python main_free.py
